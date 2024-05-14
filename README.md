@@ -5,4 +5,4 @@ I have some works with **Golang** and **MySQL**, contact me if you have same int
 
 ## 📫 Contact Me on Social Media
 
-[Linkedin](https://www.linkedin.com/in/muh-bagir) | [Email](mailto:email@bagir.my.id) | [Issue](https://github.com/BAGIR3008/bagir/issues/me)
+[Linkedin](https://www.linkedin.com/in/muh-bagir) | [Email](mailto:bagir3008@gmail.com) | [Issue](https://github.com/BAGIR3008/bagir/issues/me)
