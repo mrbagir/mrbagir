@@ -2,11 +2,11 @@
 <!-- <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFeMiqkPzkrgw/profile-displaybackgroundimage-shrink_350_1400/0/1714398947589?e=1722470400&v=beta&t=mQ9eMmrpMgivbMNN0Tftkpxrdcau3NW-X-462mDCwgY"> </div> -->
 <h3 align="center">As a Backend Programmer with a focus on Software Development, and Website Server Development from Alterra Academy, I gained expertise in object-oriented programming, backend management, database management, REST API, Cloud Computing, Microservices, and Backend Systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagir3008&label=Profile%20views&color=0e75b6&style=flat" alt="bagir3008" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbagir&label=Profile%20views&color=0e75b6&style=flat" alt="mrbagir" /> </p>
 
 - 🌱 I’m currently learning **Java & Fullstack Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BAGIR3008](https://github.com/BAGIR3008)
+- 👨‍💻 All of my projects are available at [https://github.com/mrbagir](https://github.com/mrbagir)
 
 - 💬 Ask me about **Golang, AWS (EC2/RDS), & Backend Development**
 
@@ -27,6 +27,6 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BAGIR3008&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAGIR3008&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbagir&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbagir&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
