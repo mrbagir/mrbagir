@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Bagir</h1>
-<!-- <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFeMiqkPzkrgw/profile-displaybackgroundimage-shrink_350_1400/0/1714398947589?e=1722470400&v=beta&t=mQ9eMmrpMgivbMNN0Tftkpxrdcau3NW-X-462mDCwgY"> </div> -->
-<h3 align="center">As a Backend Programmer with a focus on Software Development, and Website Server Development from Alterra Academy, I gained expertise in object-oriented programming, backend management, database management, REST API, Cloud Computing, Microservices, and Backend Systems.</h3>
+<h3 align="center">As a Backend Programmer, I have solid experience in building and maintaining large-scale backend services, particularly for banking systems at BRI (Trade Finance, Bank Guarantee, Notpool, Multipayment). Proficient in Golang, I focus on enhancing service scalability, developing reusable components, and optimizing legacy code for better efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbagir&label=Profile%20views&color=0e75b6&style=flat" alt="mrbagir" /> </p>
 
@@ -16,13 +15,20 @@
 
 **🔗 Connect with me:**
 <p align="center">
-<a href="https://linkedin.com/in/muh-bagir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muh-bagir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bagir3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bagir3008" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bagir3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bagir3008" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muh-bagir"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
+<a href="https://www.hackerrank.com/bagir3008"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank"/></a>
+<a href="https://www.leetcode.com/bagir3008"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode"/></a>
 </p>
 
-🛠️ **Languages and Tools:**
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+💻 **Languages:**
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=golang,javascript,html,css,python,mysql,postgresql"/>
+</p>
+
+🛠️ **Technologies/Tools:**
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grpc,redis,rabbitmq,aws,docker,jwt,elasticsearch,openshift,jira,postman"/>
+</p>
 
 📈 **My GitHub Stats:**
 
